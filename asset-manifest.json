@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://lailadrumond.github.io/csb-k6z2f/static/js/main.72d2abe2.chunk.js",
+    "main.js.map": "https://lailadrumond.github.io/csb-k6z2f/static/js/main.72d2abe2.chunk.js.map",
+    "runtime-main.js": "https://lailadrumond.github.io/csb-k6z2f/static/js/runtime-main.89a58a6e.js",
+    "runtime-main.js.map": "https://lailadrumond.github.io/csb-k6z2f/static/js/runtime-main.89a58a6e.js.map",
+    "static/js/2.39d13391.chunk.js": "https://lailadrumond.github.io/csb-k6z2f/static/js/2.39d13391.chunk.js",
+    "static/js/2.39d13391.chunk.js.map": "https://lailadrumond.github.io/csb-k6z2f/static/js/2.39d13391.chunk.js.map",
+    "index.html": "https://lailadrumond.github.io/csb-k6z2f/index.html",
+    "static/js/2.39d13391.chunk.js.LICENSE.txt": "https://lailadrumond.github.io/csb-k6z2f/static/js/2.39d13391.chunk.js.LICENSE.txt",
+    "static/media/add.8a50c913.svg": "https://lailadrumond.github.io/csb-k6z2f/static/media/add.8a50c913.svg",
+    "static/media/car.41ef4112.svg": "https://lailadrumond.github.io/csb-k6z2f/static/media/car.41ef4112.svg",
+    "static/media/remove.11d34a5f.svg": "https://lailadrumond.github.io/csb-k6z2f/static/media/remove.11d34a5f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89a58a6e.js",
+    "static/js/2.39d13391.chunk.js",
+    "static/js/main.72d2abe2.chunk.js"
+  ]
+}
